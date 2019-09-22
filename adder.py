@@ -59,13 +59,11 @@ def clean_string(string):
 #         return False
 #     return True
 
-# file_reader('Photoshoot')
 info = read_admin_info()
 
 LINK = info['link']
 USERNAME = info['username']
 PASSWORD = info['password']
-INFO = ['Executive', 'Cindy Angela', 'Treasurer','Photoshoot/Artifact/Alexander Jason Anggara,Treasurer.jpg']
 DIVISON_ID = {
     'Executive': 'in-group-81',
     'Artifact': 'in-group-125',

@@ -7,3 +7,5 @@
 
 # Status: 
 Script works semi-manually, it can fill out the forms, but uploading images only works 5/10 times as the wordpress CMS times out half the time, and that has to be handled manually.
+
+Possible solution: Compress the images to <300kb, could lessen the chance of the cms timing out.
